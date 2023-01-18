@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://santoshy1101.github.io/](https://santoshy1101.github.io/)
 
-- 💬 Ask me about **HTML CSS JVASCRIPT REACT TAILWIND**
+- 💬 Ask me about **HTML CSS JAVASCRIPT REACT TAILWIND**
 
 - 📫 How to reach me **styadav412@gmail.com**
 
