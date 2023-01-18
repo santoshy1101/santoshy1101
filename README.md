@@ -65,7 +65,7 @@
 
 
 <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshy1101&show_icons=true&bg_color=00000000" alt="shubhojeet1" /></p>
- <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhojeet1&show_icons=true&locale=en&layout=compact" alt="shubhojeet1" /></p>
+<!--  <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhojeet1&show_icons=true&locale=en&layout=compact" alt="shubhojeet1" /></p> -->
 
  <p align="center">
     <a href="https://github.com/santoshy1101github-readme-streak-stats">
