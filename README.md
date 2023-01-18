@@ -1,4 +1,4 @@
-<div align="center">
+
 <h1 align="center">Hi 👋, I'm Santosh Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -33,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshy1101&show_icons=true&locale=en" alt="santoshy1101" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshy1101&" alt="santoshy1101" /></p>
-</div>
