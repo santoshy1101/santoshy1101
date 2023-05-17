@@ -21,7 +21,7 @@
 - 💬 Ask me about **HTML, Advance CSS, VanillaJS, ReactJs**
 
 - 📫 How to reach me **styadav412@gmail.com**
-- <h2><a href="https://drive.google.com/file/d/1GVAG9kDQGhyNAXwZEFUIVPMSE_PJ-umW/view?usp=sharing">📜 Download_Resume</a></h2>
+- <h2><a href="https://drive.google.com/file/d/1S9esGcvYnjMRnbvpiOeRbbdj25JMoopq/view?usp=sharing" >📜 Resume</a></h2>
 
 <h1><h1/>
 
